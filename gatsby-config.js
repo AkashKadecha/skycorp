@@ -14,6 +14,10 @@ module.exports = {
           {
             title: "Portfolio",
             url: "/Portfolio"
+          },
+          {
+            title: "Services",
+            url: "/Services"
           }
         ]
       },

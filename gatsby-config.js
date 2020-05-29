@@ -9,11 +9,11 @@ module.exports = {
         links: [
           {
             title: "About",
-            url: "/doc1"
+            url: "/About"
           },
           {
             title: "Portfolio",
-            url: "/doc2"
+            url: "/Portfolio"
           }
         ]
       },

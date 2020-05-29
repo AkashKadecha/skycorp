@@ -21,7 +21,7 @@ module.exports = {
         copyright: "skycorp",
         columns: [
           {
-            heading: "Column 1",
+            heading: "TodayQuote",
             links: [
               {
                 title: "Link 1",

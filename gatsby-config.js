@@ -12,12 +12,12 @@ module.exports = {
             url: "/About"
           },
           {
-            title: "Portfolio",
-            url: "/Portfolio"
-          },
-          {
             title: "Services",
             url: "/Services"
+          },
+          {
+            title: "Portfolio",
+            url: "/Portfolio"
           }
         ]
       },

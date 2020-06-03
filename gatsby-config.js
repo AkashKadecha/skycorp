@@ -25,7 +25,7 @@ module.exports = {
           },
           {
             title: "profile",
-            url: "/index"
+            url: "/index.html"
           }
         ]
       },

@@ -25,7 +25,7 @@ module.exports = {
           },
           {
             title: "profile",
-            url: "/index.html"
+            url: "www.google.co.in"
           }
         ]
       },

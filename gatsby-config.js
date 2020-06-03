@@ -22,6 +22,10 @@ module.exports = {
           {
             title: "ContactUs",
             url: "/ContactUs"
+          },
+          {
+            title: "profile",
+            url: "/index"
           }
         ]
       },

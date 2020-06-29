@@ -24,8 +24,8 @@ module.exports = {
             url: "/ContactUs"
           },
           {
-            title: "profile",
-            window.location.href : "index.html"
+            title: "Profile",
+            url: "/Profile"
           }
         ]
       },

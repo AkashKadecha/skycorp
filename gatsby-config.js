@@ -29,13 +29,6 @@ module.exports = {
           }
         ]
       },
-      content: {
-        links: [
-        {
-          title: "Lock 1"
-          url: "/posts/Lock 1"
-        }]
-      },
       footer: {
         copyright: "skycorp",
         columns: [

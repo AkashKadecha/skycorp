@@ -32,7 +32,7 @@ module.exports = {
       content: {
         links: [
         {
-          title: "Lock-1"
+          title: "Lock 1"
           url: "/posts/Lock 1"
         }]
       },

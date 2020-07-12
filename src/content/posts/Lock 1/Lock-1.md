@@ -1,6 +1,6 @@
 ---
-id: "Lock-1"
-title: "Lock-1"
+id: "Lock 1"
+title: "Lock 1"
 author: Akash Kadecha
 featuredImage: Lock 1.jpg
 tags: [vim-labs]

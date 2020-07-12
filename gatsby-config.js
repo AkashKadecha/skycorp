@@ -33,7 +33,7 @@ module.exports = {
         links: [
         {
           title: "Lock-1"
-          url: "/Lock 1"
+          url: "/posts/Lock 1"
         }]
       },
       footer: {
